@@ -2,8 +2,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project involves creating a comprehensive dashboard for Atliqo, a telecom provider facing a decline in users and revenue after the launch of 5G in May. The goal is to analyze various performance metrics, identify trends, and gain insights into the company's market position.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Dashboard Link** : https://app.powerbi.com/groups/me/reports/e731a361-2cdd-466d-a767-3b4763ebc8fc/d15d58a21e24098c3a83?experience=power-bi
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Collection and Preparation
 Data was collected in CSV format, cleaned, and formatted to ensure accuracy and consistency.
